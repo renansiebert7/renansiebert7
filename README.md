@@ -1,4 +1,4 @@
-👋 Olá! Me chamo Renan Carlo Siebert, tenho 16 anos e sou de Salvador do Sul – RS. Atualmente, sou Jovem Aprendiz na empresa Mega Goglio e estou estudando programação pelo DevClub, com foco em iniciar minha carreira como desenvolvedor.
+👋 Olá! Me chamo Renan Carlo Siebert, sou de Salvador do Sul – RS. Atualmente, sou Jovem Aprendiz na empresa Mega Goglio e estou estudando programação pelo DevClub, com foco em iniciar minha carreira como desenvolvedor.
 
 No momento, estou aprendendo linguagens como:
 <br>
