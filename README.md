@@ -1,4 +1,4 @@
-👋 Olá! Me chamo Renan Carlo Siebert, sou de Salvador do Sul – RS. Atualmente sou Jovem Aprendiz na Mega Goglio e estou estudando programação no DevClub, com o objetivo de me tornar um desenvolvedor full-stack.
+👋 Olá! Me chamo Renan Carlo Siebert, sou de Salvador do Sul – RS. Atualmente sou Técnico em TI na Mega System Informática e estou estudando programação no DevClub, com o objetivo de me tornar um desenvolvedor full-stack.
 Sou apaixonado por tecnologia, especialmente pela área de programação. Tenho muita dedicação e comprometimento em tudo o que faço e estou sempre buscando evoluir e aprender cada vez mais.
 <br> <br>
 No momento, estou aprendendo linguagens como:
