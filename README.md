@@ -1,5 +1,10 @@
 # 👋 Olá, eu sou o Renan Siebert!
 
+<div>
+  <h1>🚀 Desenvolvedor Full-Stack em Formação</h1>
+  <p>Técnico em TI | Estudante DevClub | Apaixonado por Tecnologia</p>
+</div>
+
 ### 👨‍💻 Sobre Mim
 Atualmente moro em **Salvador do Sul – RS** e atuo como **Técnico em TI** na Mega System Informática. Estou trilhando minha jornada no **DevClub** para me tornar um **Desenvolvedor Full-Stack**.
 
