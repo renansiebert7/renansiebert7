@@ -17,8 +17,3 @@ Acredito no equilíbrio entre estudo, trabalho e lazer
 <br>
 Estou sempre em busca de crescimento pessoal e profissional 🚀
 <br> <br>
-
-
-[![renan stats](https://github-readme-stats.vercel.app/api?username=renansiebert7)](https://github.com/anuraghazra/github-readme-stats)
-
-[![renan Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renansiebert7)](https://github.com/anuraghazra/github-readme-stats)
