@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Renan Siebert!
 
-<p align="center">
-  <img src="https://v-readme.vercel.app/api?text=Renan%20Siebert&subtext=Desenvolvedor%20Full-Stack%20em%20formação&color=0077B5&dark=true" width="100%">
-</p>
-
 ### 👨‍💻 Sobre Mim
 Atualmente moro em **Salvador do Sul – RS** e atuo como **Técnico em TI** na Mega System Informática. Estou trilhando minha jornada no **DevClub** para me tornar um **Desenvolvedor Full-Stack**.
 
