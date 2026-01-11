@@ -1,19 +1,60 @@
-👋 Olá! Me chamo Renan Carlo Siebert, sou de Salvador do Sul – RS. Atualmente sou Técnico em TI na Mega System Informática e estou estudando programação no DevClub, com o objetivo de me tornar um desenvolvedor full-stack.
-Sou apaixonado por tecnologia, especialmente pela área de programação. Tenho muita dedicação e comprometimento em tudo o que faço e estou sempre buscando evoluir e aprender cada vez mais.
-<br> <br>
-No momento, estou aprendendo linguagens como:
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30"/> 
-<h6>(e futuramente frameworks e outras tecnologias do desenvolvimento full-stack)</h6>
-Meu objetivo é conquistar minha primeira oportunidade como programador e construir uma carreira sólida na área de desenvolvimento.
-<br> <br>
-Sobre mim:
-<br>
-Gosto muito de futebol ⚽
-<br>
-Acredito no equilíbrio entre estudo, trabalho e lazer
-<br>
-Estou sempre em busca de crescimento pessoal e profissional 🚀
-<br> <br>
+# 👋 Olá, eu sou o Renan Siebert!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Renan%20Siebert&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%">
+</p>
+
+### 👨‍💻 Sobre Mim
+Atualmente moro em **Salvador do Sul – RS** e atuo como **Técnico em TI** na Mega System Informática. Estou trilhando minha jornada no **DevClub** para me tornar um **Desenvolvedor Full-Stack**.
+
+* 🚀 Apaixonado por transformar ideias em código.
+* ⚽ Fã de futebol e entusiasta de tecnologia.
+* 🎯 Focado em construir uma carreira sólida e conquistar minha primeira oportunidade como Dev.
+
+---
+
+### 🛠️ Minha Stack Atual
+No momento, estou focado em dominar o ecossistema Front-end e iniciando no Back-end com Node.js:
+
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</div>
+
+**📚 Em breve:**
+Frameworks modernos (React), bancos de dados e outras tecnologias Full-Stack.
+
+---
+### 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=renansiebert7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansiebert7&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px">
+</p>
+
+---
+
+---
+
+### 📫 Vamos nos conectar?
+Gosto de trocar experiências sobre tecnologia e desenvolvimento:
+
+<div align="left">
+  <a href="https://linkedin.com/in/renansiebert" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/renan_siebert7" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:renansiebert01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <i>"Acredito no equilíbrio entre estudo, trabalho e lazer para um crescimento constante."</i> 🚀
+</p>
