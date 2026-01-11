@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Renan Siebert!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Renan%20Siebert&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%">
+  <img src="https://v-readme.vercel.app/api?text=Renan%20Siebert&subtext=Desenvolvedor%20Full-Stack%20em%20formação&color=0077B5&dark=true" width="100%">
 </p>
 
 ### 👨‍💻 Sobre Mim
@@ -27,14 +27,13 @@ No momento, estou focado em dominar o ecossistema Front-end e iniciando no Back-
 Frameworks modernos (React), bancos de dados e outras tecnologias Full-Stack.
 
 ---
+
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renansiebert7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renansiebert7&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=renansiebert7&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub" height="180px">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=renansiebert7&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px">
 </p>
-
----
 
 ---
 
