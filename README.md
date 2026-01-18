@@ -36,6 +36,13 @@ Frameworks modernos (React), bancos de dados e outras tecnologias Full-Stack.
   <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=renansiebert7&layout=compact&theme=radical" alt="Linguagens mais usadas" height="180px">
 </p>
 
+<br>
+
+## 📂 Acesse o Meu Portfólio
+O portfólio está publicado e pode ser acessado em tempo real:
+
+> [**👉 Clique aqui para visualizar o portfólio completo**](https://renansiebert7.github.io/meu-portf-lio/)
+
 ---
 
 ### 📫 Vamos nos conectar?
