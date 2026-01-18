@@ -41,7 +41,7 @@ Frameworks modernos (React), bancos de dados e outras tecnologias Full-Stack.
 ## 📂 Acesse o Meu Portfólio
 O portfólio está publicado e pode ser acessado em tempo real:
 
-> [**👉 Clique aqui para visualizar o portfólio completo**](https://renansiebert7.github.io/meu-portf-lio/)
+> [**👉 Clique aqui para visualizar o portfólio completo**](https://renansiebert7.github.io/portfolio/)
 
 ---
 
