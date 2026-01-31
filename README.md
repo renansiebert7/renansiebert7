@@ -50,7 +50,7 @@ Atualmente trabalho com as seguintes tecnologias:
 ## 📂 Portfólio
 Confira meus projetos e aplicações desenvolvidas:
 
-👉 [Clique aqui para acessar meu portfólio](https://renansiebert7.github.io/meu-portf-lio/)
+👉 [Clique aqui para acessar meu portfólio](https://renansiebert7.github.io/portfolio/)
 
 ---
 
