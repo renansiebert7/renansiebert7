@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou o Renan Siebert!
 
-<div align="center">
+<div>
   <h1>🚀 Desenvolvedor Full-Stack | Técnico de TI</h1>
   <p><strong>Transformando necessidades reais em soluções funcionais através de código limpo e boa experiência do usuário (UX).</strong></p>
 </div>
 
-<div align="center">
+<div>
   <a href="https://linkedin.com/in/renansiebert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
