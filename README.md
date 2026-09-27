@@ -65,8 +65,8 @@ Paralelamente, atuo como **Desenvolvedor Full-Stack Freelancer**, criando aplica
 | Projeto | Descrição | Stack | Status / Link |
 | :--- | :--- | :--- | :--- |
 | **DevBurguer** | Sistema Full-Stack de pedidos para hamburgueria com área do cliente e admin. | React, Node.js, PostgreSQL | [Ver Repositório](#) |
-| **Prodigy Centro Educacional** | Site institucional comercial com foco em UX, responsividade e conversão. | HTML5, CSS3, JS | [Acessar Site](https://renansiebert7.github.io/portfolio/) |
-| **Fenerbahtchê** | Website do clube com elenco, comissão, galeria e patrocinadores. | HTML5, CSS3, JS | [Ver Repositório](#) |
+| **Prodigy Centro Educacional** | Site institucional comercial com foco em UX, responsividade e conversão. | HTML5, CSS3, JS | [Acessar Site](https://prodigyschool.com.br) |
+| **Fenerbahtchê** | Website do clube com elenco, comissão, galeria e patrocinadores. | HTML5, CSS3, JS | [Acessar Site](https://fenerbahtche.com.br)  |
 | **Meu Portfólio** | Landing page pessoal com galeria interativa de certificados. | HTML5, CSS3, JS | [Acessar Site](https://renansiebert7.github.io/portfolio/) |
 
 ---
